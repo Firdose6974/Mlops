@@ -1,2 +1,2 @@
 # Mlops
-This is my personal repository for Mlops course
+This is my personal repository for Mlops Project
